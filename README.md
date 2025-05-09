@@ -50,7 +50,7 @@ repo/
 ### 1  Clone and install deps
 
 ```bash
-git clone https://github.com/yourname/firewall‑analyzer.git
+git clone https://github.com/yourname/Firewall-Analysis.git
 cd firewall‑analyzer
 pip install -r requirements.txt   # optional convenience file
 ```
