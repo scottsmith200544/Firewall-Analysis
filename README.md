@@ -41,7 +41,6 @@ repo/
 ├─ FirewallParser.py      # core analysis engine (CLI‑ready)
 ├─ firewall_gui_tk.py     # Tkinter GUI front‑end
 ├─ README.md              # this file
-└─ sample_logs.csv        # (optional) small demo dataset
 ```
 
 ---
