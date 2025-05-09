@@ -124,4 +124,4 @@ Pull requests welcome!  Please open an issue first to discuss major changes.
 
 ## Acknowledgements
 
-Inspired by countless late‑night firewall audits 🙃
+Inspired by countless times of trying to clean up open and mismanaged firewalls when only logs are available
